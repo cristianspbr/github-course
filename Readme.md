@@ -1,3 +1,5 @@
+alteracao para teste do comando git stash
+
 Git Course
 
 repositorio teste de git 
